@@ -1,0 +1,2 @@
+# ContactList
+The program must manage a collection of patrons and their telephone numbers. Patrons are either individuals or businesses; telephone numbers are either listed or unlisted. Input to the program is a sequence of queries. Queries can take these forms: ² an individual's name or a business's name or a name that might be either. (The program prints the patrons with that surname and their telephone numbers.) .A telephone number (The program prints the patron that owns that num- ber.)
